@@ -1,18 +1,15 @@
-# Welcome to your Lovable project
 
 ## Project info
-
-**URL**: https://lovable.dev/projects/76e6b653-1c98-4ead-afc7-3dbb42ac0152
+##Web App Screenshots
+![User Dashboard](https://github.com/user-attachments/assets/b93c1669-6ab6-4649-8fa1-aa6828e62d69)
+![User Profile](https://github.com/user-attachments/assets/1bbea815-87a4-4326-881e-a1e429e75b57)
+![Find Doctors Page](https://github.com/user-attachments/assets/2702067d-79ff-4f8c-b247-da77ce48b797)
+![Doc Dashboard](https://github.com/user-attachments/assets/6d18d5ac-d10d-4a83-9aa6-f01b2e083b40)
+![Doc Schedule Management](https://github.com/user-attachments/assets/6d71be52-0c04-46ca-86f5-a71904cbfd58)
+![Patient Records](https://github.com/user-attachments/assets/c3d05d24-6018-4ce7-af18-2ea1ec2741bd)
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/76e6b653-1c98-4ead-afc7-3dbb42ac0152) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,14 +57,4 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/76e6b653-1c98-4ead-afc7-3dbb42ac0152) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
